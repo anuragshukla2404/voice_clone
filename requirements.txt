@@ -1,0 +1,5 @@
+# py -m venv .venv
+# python - 3.11
+TTS
+pytube
+pydub
