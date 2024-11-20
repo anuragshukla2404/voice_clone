@@ -1,5 +1,6 @@
 # conda install -p venv python=3.11 -y
 # python - 3.11 version
+# Microsoft C++ Build Tools
 TTS
 pytube
 pydub
